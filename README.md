@@ -5,3 +5,4 @@
 4. Loops
 5. Functions
 6. Data Structures (Lists)
+7. File Handling
