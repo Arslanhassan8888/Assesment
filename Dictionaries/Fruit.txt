@@ -1,0 +1,6 @@
+apple pear grape banana apple apple banana apple grape strawberry
+grape grape apple apple grape apple strawberry pear
+apple apple grape strawberry banana banana apple
+apple grape banana
+apple strawberry strawberry banana apple
+apple
