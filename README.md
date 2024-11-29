@@ -6,3 +6,4 @@
 5. Functions
 6. Data Structures (Lists)
 7. File Handling
+8. Dictionaries
