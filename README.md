@@ -8,3 +8,4 @@
 7. File Handling
 8. Dictionaries
 9. Modular code
+10. Debugging
